@@ -29,6 +29,6 @@ This is a simple Flutter mobile application that performs CRUD operations using 
 
 ## Author
 
- Kasundi Ranaweera
 
+ Kasundi Ranaweera
 - Your Name
