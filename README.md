@@ -25,10 +25,11 @@ This is a simple Flutter mobile application that performs CRUD operations using 
 
 1. Clone the repository
 2. Run `flutter pub get`
-3. Run the app
+3. Run `flutter run`
+4. Run the app
 
 ## Author
 
+- Kasundi Ranaweera
 
- Kasundi Ranaweera
-- Your Name
+
