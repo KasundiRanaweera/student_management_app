@@ -28,6 +28,20 @@ This is a simple Flutter mobile application that performs CRUD operations using 
 3. Run `flutter run`
 4. Run the app
 
+## Screenshots
+
+### Create Screen
+![Create Screen](images/create.png)
+
+### Read Screen
+![Read Screen](images/read.png)
+
+### Update Screen
+![Update Screen](images/update.png)
+
+### Delete Screen
+![Delete Screen](images/delete.png)
+
 ## Author
 
 - Kasundi Ranaweera
