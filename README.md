@@ -28,6 +28,10 @@ This is a simple Flutter mobile application that performs CRUD operations using 
 3. Run `flutter run`
 4. Run the app
 
+## Author
+
+- Kasundi Ranaweera
+  
 ## Screenshots
 
 ### Create Screen
@@ -42,8 +46,6 @@ This is a simple Flutter mobile application that performs CRUD operations using 
 ### Delete Screen
 ![Delete Screen](images/delete.png)
 
-## Author
 
-- Kasundi Ranaweera
 
 
